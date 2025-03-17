@@ -9,3 +9,5 @@ function teste() {
 function teste2() {
   console.log("formatação");
 }
+
+export default Home;
